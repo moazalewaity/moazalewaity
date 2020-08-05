@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Mpaz , a self-motivated tech enthusiast and full stack web developer.
+I'm Moaz Alawaity , a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
