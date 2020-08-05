@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**moazalewaity/moazalewaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Mpaz , a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/moazalewaity">@moazalewaity</a> | 🌱 building <a href="https://github.com/moazalewaity/HPZOOM">HPZOOM Design</a> | 💬 connect <a href="https://twitter.com/moazalawaity">@moazalawaity</a>
+</h4>
+<p  align="center">
+<a href="https://github.com/moazalewaity/">https://github.com/moazalewaity</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+
+⭐️ From [akasrai](https://github.com/[moazalewaity])`
+
